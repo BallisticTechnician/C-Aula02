@@ -1,0 +1,13 @@
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\FiapAula02.Exemplo\FiapAula02.Exemplo\obj\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.csproj.AssemblyReference.cache
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\FiapAula02.Exemplo\FiapAula02.Exemplo\obj\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.AssemblyInfoInputs.cache
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\FiapAula02.Exemplo\FiapAula02.Exemplo\obj\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.AssemblyInfo.cs
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\FiapAula02.Exemplo\FiapAula02.Exemplo\obj\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\FiapAula02.Exemplo\FiapAula02.Exemplo\bin\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.exe
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\FiapAula02.Exemplo\FiapAula02.Exemplo\bin\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.deps.json
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\FiapAula02.Exemplo\FiapAula02.Exemplo\bin\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.runtimeconfig.json
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\FiapAula02.Exemplo\FiapAula02.Exemplo\bin\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.runtimeconfig.dev.json
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\FiapAula02.Exemplo\FiapAula02.Exemplo\bin\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.dll
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\FiapAula02.Exemplo\FiapAula02.Exemplo\bin\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.pdb
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\FiapAula02.Exemplo\FiapAula02.Exemplo\obj\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.dll
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\FiapAula02.Exemplo\FiapAula02.Exemplo\obj\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.pdb
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\FiapAula02.Exemplo\FiapAula02.Exemplo\obj\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.genruntimeconfig.cache
